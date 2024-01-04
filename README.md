@@ -31,7 +31,7 @@ Create a web application using Streamlit that harnesses geospatial information f
 
 ### Step 4 -- *Price Analysis and Visualization*
 Utilize the refined dataset to conduct an analysis and generate visual representations showcasing the fluctuations in prices across various geographical locations, types of properties, and seasons. Develop interactive graphs and charts that empower users to investigate pricing trends, identify outliers, and discern correlations with other factors.
-<br/>
+<!--- <br/>
 
 ### Step 5 -- *Comprehensive Dashboard*
-Create a thorough dashboard using Tableau or Power BI to showcase critical findings derived from your analysis. Blend various visual elements like maps, charts, and tables to offer a complete perspective of the Airbnb dataset and its underlying trends.
+Create a thorough dashboard using Tableau or Power BI to showcase critical findings derived from your analysis. Blend various visual elements like maps, charts, and tables to offer a complete perspective of the Airbnb dataset and its underlying trends. ---!>
